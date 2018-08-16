@@ -1,0 +1,27 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Owens",
+	"home_page_url": "http://thoughts.owensd.io/",
+	"feed_url": "http://thoughts.owensd.io/archive/index.json",
+	"items": [
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/16/social-cleaning.html",
+	      	
+			"title": "Social Cleaning",
+			
+			"content_text": "I have a bunch of stuff to cleanup my social...",
+			"date_published": "2018-08-15T23:01:44-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/15/social-cleaning.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/14/better-claim-it.html",
+	      	
+			"content_text": "Better claim it. =)\n",
+			"date_published": "2018-08-14T13:09:46-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/14/better-claim-it.html"
+		}
+		
+	]
+}
