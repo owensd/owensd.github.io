@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
     <title>David Owens</title>
-    <description>A builder of things.</description>
+    <description></description>
     <link>http://thoughts.owensd.io/</link>
-    <pubDate>Wed, 15 Aug 2018 23:01:57 -0700</pubDate>
-    <lastBuildDate>Wed, 15 Aug 2018 23:01:57 -0700</lastBuildDate>
+    <pubDate>Thu, 16 Aug 2018 10:30:06 -0700</pubDate>
+    <lastBuildDate>Thu, 16 Aug 2018 10:30:06 -0700</lastBuildDate>
 	<itunes:image href="https://micro.blog/owensd/podcast.png" />
 	<itunes:category text="Society &amp; Culture">
 		<itunes:category text="Personal Journals"></itunes:category>
@@ -17,6 +17,12 @@
 		<itunes:email></itunes:email>
 	</itunes:owner>
 	<language>en</language>
+    
+		
+    
+		
+    
+		
     
 		
     
