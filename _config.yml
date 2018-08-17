@@ -43,7 +43,7 @@ paginate_path: "/page/:num/"
 timezone: "US/Pacific-New"
 site_id: "5509"
 gems: ["jekyll-paginate"]
-itunes_description: ""
+itunes_description: "I'm a builder of things."
 itunes_category: "Society & Culture"
 itunes_subcategory: "Personal Journals"
 itunes_author: "David Owens"
