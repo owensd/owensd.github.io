@@ -6,16 +6,6 @@
 	"items": [
 		
 		{
-			"id": "http://owensd.micro.blog/2018/08/16/only-a-test.html",
-	      	
-			"title": "Only a test",
-			
-			"content_html": "<p>This is a test.</p>\n",
-			"date_published": "2018-08-16T10:29:07-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/16/only-a-test.html"
-		},
-		
-		{
 			"id": "http://owensd.micro.blog/2018/08/16/hmm-i-was.html",
 	      	
 			"content_html": "<p>Hmm… I was worried about losing out on YouTube Premium (removing ads). Then I proceed to look at my YouTube subscriptions.</p>\n\n<p>Yeah… I can probably ditch this and get some of my evening time back.</p>\n",
