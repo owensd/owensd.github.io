@@ -6,6 +6,66 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/19/ive-been-looking.html",
+	      	
+			"content_html": "<p>I’ve been looking at a photo editing computer for my wife the past few weeks. I went back and forth all over the spectrum (iMac, MBP, PC, Hackintosh). Decided on the 15” MacBook Pro as it allows us to progressively dive deeper with an external display and an eGPU.</p>\n",
+			"date_published": "2018-08-18T20:37:32-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/18/ive-been-looking.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/18/ah-now-this.html",
+	      	
+			"content_html": "<p>Ah, now this is looking much better. Nether with it’s annoying plug though. 😠</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/18dac4ae48.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T12:39:18-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/18/ah-now-this.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/18/this-is-just.html",
+	      	
+			"content_html": "<p>This is just ridiculous. I have nearly three feet of extra coax length here. Hopefully I can shove it up into the wall.</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/d236562c3e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T11:08:39-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/18/this-is-just.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/17/ikea-desk-comes.html",
+	      	
+			"content_html": "<p>IKEA desk comes tomorrow. Still debating on a 13” MacBook Pro + external display or just canabilizing my gaming PC for my wife’s new photo editing/managing station. And potentially switching it over to an Intel platform. 🤔</p>\n",
+			"date_published": "2018-08-17T09:32:48-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/17/ikea-desk-comes.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/17/projects-back-to.html",
+	      	
+			"title": "Projects: Back to C",
+			
+			"content_html": "<p>One of the things I really enjoy doing in my space time is playing D&amp;D. Now, I don’t get a lot of time to do it, and when I do get to, I mostly play online. I’ve tried pretty much all of the tools out there from <a href=\"http://roll20.net\">Roll 20</a>, <a href=\"http://fantasygrounds.com\">Fantasy Grounds</a>, <a href=\"http://dndbeyond.com\">D&amp;D Beyond</a>, Discord, and combinations of all of the above.</p>\n\n<p>The problem: none of them actually solve my needs.</p>\n\n<p>This brings me to my current hobby project: an online game management tool. Now, the fundamental problem with Roll 20 and Fantasy Grounds is that they are relatively closed eco-systems; you really need to buy into (quite literally!) in order to make the most of it. Now, Fantasy Grounds is far more flexible and you can basically encode anything you want, it’s a lot of time to do so.</p>\n\n<p>So, that’s where my project comes into play. I really like the premise around <a href=\"http://dndbeyond.com\">D&amp;D Beyond</a>, however, it’s also a fairly closed ecosystem providing no APIs to interact with it. However, since D&amp;D Beyond is mainly a D&amp;D Book archive, I can work with that.</p>\n\n<hr />\n\n<p>Now… the goals of the project are as follows:</p>\n\n<ol>\n  <li>Create a system that works on macOS, iOS, and Windows. My players use varied systems and I need to support all three of those.</li>\n  <li>Create an open ecosystem where there is a fluid flow of information coming into the app and going out of the app. If you love Ulysses or Scrivener for writing your campaigns, use it! The app is to help you run your table top session, not management everything else for you.</li>\n  <li>High performance, low battery impact. A D&amp;D session can be 3~5 hours long and I don’t want people reaching for their chargers part way in or losing access to their character if they are on their laptop or iOS device, especially if we are at the table.</li>\n  <li>A learning project for certain things that I just don’t know too much about, such as low-level graphics frameworks.</li>\n  <li>The foundation for other projects that I have that I’d like to work on… <em>secret projects</em>.</li>\n</ol>\n\n<p>One of the key features, if not the primary feature, is an interactive mapping environment. This is going to likely be a top-down view of a true 3D environment with dynamic lighting, character line-of-sight handling, and turn management tools (including things like measuring movement distances and area of effect areas templates).</p>\n\n<hr />\n\n<p>This brings us to technology and language choices. Now, remember, this is going to be a truly cross-platform app. It also has the need of being run offline or over local-networks only.</p>\n\n<p>The basic choices are:</p>\n\n<ul>\n  <li>web-technology based, such as Electron or Atom</li>\n  <li>game engine based, such as Unreal or Unit</li>\n  <li>using some type of cross-platform application layer</li>\n  <li>handmade, native app</li>\n</ul>\n\n<p>For various reasons that I don’t really want to fully go into here, an Electron-based app is out. High performance, low battery life, small footprint, full offline, and cross-platform make a solution like this challenging, especially for a 3D engine. Sure, WebGL is pretty good, and there is WASM, but ultimately, this is really an unproven technology for this type of application. Also, I’d need a different solution on mobile vs. desktop, which starts to complicate the picture as well.</p>\n\n<p>Ok… so Unreal or Unity based? I haven’t fully rejected this idea, but it would likely only be for the map rendering portion as the vast majority of the rest my content is going to be primary text-based UIs (character sheets, rule references, story content, etc…). Unity… I’ve played around with it in the past and it just didn’t stick with me, so I’d use Unreal if I went this route. The question always is does this dependency warrant the design decisions and complexity? I’m not sure.</p>\n\n<p>Cross-platform layer… no.</p>\n\n<p>A native app. Now, this brings the downside of having to re-build the UI layer for each support platform, and for a hobby and one-man-team, that kinda stinks. BUT! I think it’s totally worth it. This choice also brings with it full control over all aspects of the project and how it is shaped. There’s a lot to be said about this.</p>\n\n<hr />\n\n<p>Language choices: really, there is only really one option that brings straight-forward interop between the various languages choices that may come up: C.</p>\n\n<p>Rust requires bindings and unsafe code; this ends up being a good amount of work to accomplish.</p>\n\n<p>C++ is C++. It’s a very complex and large language. Interop with other languages can be problematic as well.</p>\n\n<p>Swift, well, it’s simply not cross-platform and isn’t going to meet my needs for a Windows install. So it’s out by default.</p>\n\n<p>C is the only language that brings to the table straight-forward interop with all of the platform UI languages (I’ll likely use C# for Windows and ObjC or Swift for macOS and iOS). If I use Swift and I chose C++, I’d have to write a long of interop bindings between the two and that is just a waste of time.</p>\n\n<p>So I’ll be using C and the internet can collectively gasp at my choice. 😀</p>\n",
+			"date_published": "2018-08-17T00:49:19-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/17/projects-back-to.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/17/taking-it-back.html",
+	      	
+			"title": "Taking it Back, One Step at a Time",
+			
+			"content_html": "<p>Today I’ve started the long process of transitioning all of my online profiles over to places where I have the control of my data and who sees it. I already had a semi-personal, semi-self-work-related location with owensd.io.</p>\n\n<p>But it’s time. Even as much as I trust Apple with my data, there’s no real reason why they should be in charge of my email and data. As for Google… well, I’m far overdue at finally ditching their email services.</p>\n\n<p>Welcome @slofamily.com. Both Twitter and Facebook will be tough to move from, but, even if I can just use those services and <em>linking places</em> for family and friends to find my content, that’s a huge improvement.</p>\n\n<hr />\n\n<p>It’s not much, but it’s a start at starting the process of getting back control.</p>\n",
+			"date_published": "2018-08-16T17:28:29-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/16/taking-it-back.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/16/one-of-the.html",
+	      	
+			"content_html": "<p>One of the things I like most about micro.blog is having the ability to easily separate out the idle chat and information from my <em>real</em> blog content (yeah yeah… I haven’t published there in a while!).</p>\n",
+			"date_published": "2018-08-16T15:35:19-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/16/one-of-the.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/16/hmm-i-was.html",
 	      	
 			"content_html": "<p>Hmm… I was worried about losing out on YouTube Premium (removing ads). Then I proceed to look at my YouTube subscriptions.</p>\n\n<p>Yeah… I can probably ditch this and get some of my evening time back.</p>\n",
