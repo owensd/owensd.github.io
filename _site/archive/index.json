@@ -6,6 +6,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/20/im-currently-using.html",
+	      	
+			"content_text": "I’m currently using the hosted micro.blog service, but that still...",
+			"date_published": "2018-08-19T23:01:46-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/19/im-currently-using.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/20/i-swapped-my.html",
+	      	
+			"content_text": "I swapped my CPU and graphics card out with my...",
+			"date_published": "2018-08-19T20:00:57-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/19/i-swapped-my.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/19/ive-been-looking.html",
 	      	
 			"content_text": "I’ve been looking at a photo editing computer for my...",
