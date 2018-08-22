@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/21/the-rtx-series.html",
+	      	
+			"content_text": "The RTX 20* series looks pretty interesting, but my guess...",
+			"date_published": "2018-08-20T18:51:33-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/20/the-rtx-series.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/20/im-currently-using.html",
 	      	
 			"content_text": "I’m currently using the hosted micro.blog service, but that still...",
