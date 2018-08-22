@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/21/the-rtx-series.html",
+	      	
+			"content_html": "<p>The RTX 20* series looks pretty interesting, but my guess is they offer little, if any, gain over the current GTX 10* series in terms of FPS for games not specifically built for the architecture, and even then, it looks like it’s going to be a quality boost.</p>\n\n<p>Need some reviews!</p>\n",
+			"date_published": "2018-08-20T18:51:33-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/20/the-rtx-series.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/20/im-currently-using.html",
 	      	
 			"content_html": "<p>I’m currently using the hosted micro.blog service, but that still goes against the spirit of <a href=\"http://owensd.micro.blog/2018/08/16/taking-it-back.html.\">owensd.micro.blog/2018/08/1…</a> I’d really like to set it up so that I can post and aggregrate everything from my own setup, but that requires so much time…</p>\n",
