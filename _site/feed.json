@@ -6,6 +6,30 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/23/after-switching-cases.html",
+	      	
+			"content_html": "<p>After switching cases with my daughter, I got downgraded to a Ryzen 2200. I tried to suffer with huge mid-tower and ATX motherboard and only get a 2600x and 1060 replacement card for me.</p>\n\n<p>Now, I have a new case, ITX MB, and Noctua cooling setup coming this weekend.</p>\n\n<p>¯_(ツ)_/¯</p>\n",
+			"date_published": "2018-08-23T01:31:49-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/23/after-switching-cases.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/21/unit-testing-doesnt.html",
+	      	
+			"content_html": "<p>Unit Testing Doesn’t Need to be Involved: <a href=\"https://owensd.io/2018/08/21/unit-testing-doesnt-need-to-be-involved/\">owensd.io/2018/08/2…</a></p>\n",
+			"date_published": "2018-08-21T07:53:53-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/21/unit-testing-doesnt.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/21/minutes-until-my.html",
+	      	
+			"content_html": "<p>30 minutes until my D&amp;D session… that’s enough time to write some code…</p>\n",
+			"date_published": "2018-08-20T19:28:24-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/20/minutes-until-my.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/21/the-rtx-series.html",
 	      	
 			"content_html": "<p>The RTX 20* series looks pretty interesting, but my guess is they offer little, if any, gain over the current GTX 10* series in terms of FPS for games not specifically built for the architecture, and even then, it looks like it’s going to be a quality boost.</p>\n\n<p>Need some reviews!</p>\n",
