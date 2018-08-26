@@ -6,6 +6,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/24/i-hate-graphs.html",
+	      	
+			"content_html": "<p>I hate graphs like this; they provide no actual information and are clearly meant to tell a story that the author wants you to see instead of providing actual information that you can understands based on facts.</p>\n\n<p>This whole RTX launch seems super sketchy to me.</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/408c702eaa.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-08-23T22:14:35-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/23/i-hate-graphs.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/23/after-switching-cases.html",
 	      	
 			"content_html": "<p>After switching cases with my daughter, I got downgraded to a Ryzen 2200. I tried to suffer with huge mid-tower and ATX motherboard and only get a 2600x and 1060 replacement card for me.</p>\n\n<p>Now, I have a new case, ITX MB, and Noctua cooling setup coming this weekend.</p>\n\n<p>¯_(ツ)_/¯</p>\n",
