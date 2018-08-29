@@ -6,6 +6,32 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/08/29/more-customer-service.html",
+	      	
+			"title": "More Customer Service Fun",
+			
+			"content_text": "This time, it’s with Microsoft. As some of my previous...",
+			"date_published": "2018-08-29T09:07:11-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/29/more-customer-service.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/29/i-think-something.html",
+	      	
+			"content_text": "I think something is wrong with me… I like writing...",
+			"date_published": "2018-08-28T23:21:35-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/28/i-think-something.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/29/oh-my-i.html",
+	      	
+			"content_text": "Oh my… I just got a random call tonight confirming...",
+			"date_published": "2018-08-28T21:02:01-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/28/oh-my-i.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/08/27/of-course-all.html",
 	      	
 			"content_text": "Of course all of IKEA’s customer support “circuits are busy”…...",
