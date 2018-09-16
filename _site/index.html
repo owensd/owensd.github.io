@@ -85,6 +85,103 @@
   <li>
     <article>
       
+      <section class="post-body">
+        <p>I sometimes get far too angry about programming annoyances. Latest example:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>private var session: URLSession? = nil
+</code></pre>
+</div>
+
+<p>Simple, but no… I need to do this:</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>private var session: URLSession?
+
+public init(session: URLSession? = nil) {
+    self.session = session
+}
+</code></pre>
+</div>
+
+      </section>
+      
+      <a href="/2018/09/15/i-sometimes-get.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-09-15 18:50:51 -0700" class="dt-published">→ 6:50 PM, Sep 15</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
+      <section class="post-body">
+        <p>I guess it’s time to retire my iPhone SE - its been fun, but back to the giant phones I suppose. iPhone Xs ordered.</p>
+
+      </section>
+      
+      <a href="/2018/09/14/i-guess-its.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-09-14 08:49:34 -0700" class="dt-published">→ 8:49 AM, Sep 14</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
+      <section class="post-body">
+        <p>Ah. No more boiler-plate! I hate boiler-plate. Test infra is now all completely generated for my little pet project.</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>➜  proteus git:(master) ✗ make test
+mkdir -p bin/generated
+python ./scripts/generate-tests.py -p ../../ --test-dir tests -o bin/generated/tests.c -i protc/libs.h -i protc/lexer.c -i tests/testlib.h
+mkdir -p bin
+clang -Wall -gmodules bin/generated/tests.c -o bin/protc_tests
+bin/protc_tests
+‡ tests from bin/generated/tests.c
+  ✓ test_minimal_func_decl
+  ✓ test_minimal_func_decl_with_return_type
+  ✓ test_minimal_func_decl_with_return_type_and_crazy_spacing
+
+§ test status (3 of 3) passed.
+</code></pre>
+</div>
+
+      </section>
+      
+      <a href="/2018/08/31/ah-no-more.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-08-31 00:10:57 -0700" class="dt-published">→ 12:10 AM, Aug 31</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
+      <section class="post-body">
+        <p>Some days it seems like I’m just spending a bunch of time trying to figure out the least hacky way to do something…</p>
+
+      </section>
+      
+      <a href="/2018/08/29/some-days-it.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-08-29 18:03:54 -0700" class="dt-published">→ 6:03 PM, Aug 29</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
       <header>
         <h2><a href="/2018/08/29/more-customer-service.html">More Customer Service Fun</a></h2>
       </header>
@@ -574,71 +671,6 @@
       <a href="/2018/08/16/hmm-i-was.html" class="u-url">
         <aside class="dates">
           <time datetime="2018-08-16 10:18:20 -0700" class="dt-published">→ 10:18 AM, Aug 16</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <section class="post-body">
-        <p>Hmm… ok, so how do I get the GitHub Pages integration working? I have the access key setup  and repo, but nothing seems to be posting over there.</p>
-
-      </section>
-      
-      <a href="/2018/08/16/hmm-ok-so.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-08-16 00:11:42 -0700" class="dt-published">→ 12:11 AM, Aug 16</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <header>
-        <h2><a href="/2018/08/15/social-cleaning.html">Social Cleaning</a></h2>
-      </header>
-      <section class="post-body">
-        <p>I have a bunch of stuff to cleanup my social profile that I’ve been meaning to do for a long time, including:</p>
-
-<ol>
-  <li>Finally getting rid of my google account. It’s just time to do it.</li>
-  <li>Delete my Twitter history, if not just deactivate the account there all together.</li>
-  <li>Figure out my Facebook transition… this is tough as it’s the only real family connection service… gotta think about this one.</li>
-  <li>Sort out a proper VPN to use and get that setup. I started with Eero Plus, but that seems like a huge waste of money (and yes, I know it’s not a VPN, but I was looking for content filtering for the kids).</li>
-</ol>
-
-<p>I’m happy to pay for a service is that keeps the barrier for entry just that much higher, plus, maybe this will encourage more thoughtful posts.</p>
-
-<p>Only time will tell.</p>
-
-      </section>
-      
-      <a href="/2018/08/15/social-cleaning.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-08-15 23:01:44 -0700" class="dt-published">→ 11:01 PM, Aug 15</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <section class="post-body">
-        <p>Better claim it. =)</p>
-
-      </section>
-      
-      <a href="/2018/08/14/better-claim-it.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-08-14 13:09:46 -0700" class="dt-published">→ 1:09 PM, Aug 14</time>
         </aside>
       </a>
     </article>
