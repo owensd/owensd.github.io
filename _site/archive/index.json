@@ -1,9 +1,42 @@
 {
 	"version": "https://jsonfeed.org/version/1",
 	"title": "David Owens",
+	"icon": "https://micro.blog/owensd/avatar.jpg",
 	"home_page_url": "http://thoughts.owensd.io/",
 	"feed_url": "http://thoughts.owensd.io/archive/index.json",
 	"items": [
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/16/i-sometimes-get.html",
+	      	
+			"content_text": "I sometimes get far too angry about programming annoyances. Latest...",
+			"date_published": "2018-09-15T18:50:51-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/15/i-sometimes-get.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/14/i-guess-its.html",
+	      	
+			"content_text": "I guess it’s time to retire my iPhone SE -...",
+			"date_published": "2018-09-14T08:49:34-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/14/i-guess-its.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/31/ah-no-more.html",
+	      	
+			"content_text": "Ah. No more boiler-plate! I hate boiler-plate. Test infra is...",
+			"date_published": "2018-08-31T00:10:57-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/31/ah-no-more.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/30/some-days-it.html",
+	      	
+			"content_text": "Some days it seems like I’m just spending a bunch...",
+			"date_published": "2018-08-29T18:03:54-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/29/some-days-it.html"
+		},
 		
 		{
 			"id": "http://owensd.micro.blog/2018/08/29/more-customer-service.html",
