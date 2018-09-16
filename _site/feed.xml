@@ -4,8 +4,73 @@
     <title>David Owens</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/owensd&quot;&gt;@owensd on Micro.blog&lt;/a&gt;.</description>
     <link>http://thoughts.owensd.io/</link>
-    <pubDate>Wed, 29 Aug 2018 13:41:44 -0700</pubDate>
-    <lastBuildDate>Wed, 29 Aug 2018 13:41:44 -0700</lastBuildDate>
+    <pubDate>Sat, 15 Sep 2018 18:52:53 -0700</pubDate>
+    <lastBuildDate>Sat, 15 Sep 2018 18:52:53 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I sometimes get far too angry about programming annoyances. Latest example:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;private var session: URLSession? = nil
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Simple, but no… I need to do this:&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;private var session: URLSession?
+
+public init(session: URLSession? = nil) {
+    self.session = session
+}
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 15 Sep 2018 18:50:51 -0700</pubDate>
+        <link>http://thoughts.owensd.io/2018/09/15/i-sometimes-get.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/09/16/i-sometimes-get.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I guess it’s time to retire my iPhone SE - its been fun, but back to the giant phones I suppose. iPhone Xs ordered.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Sep 2018 08:49:34 -0700</pubDate>
+        <link>http://thoughts.owensd.io/2018/09/14/i-guess-its.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/09/14/i-guess-its.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Ah. No more boiler-plate! I hate boiler-plate. Test infra is now all completely generated for my little pet project.&lt;/p&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;➜  proteus git:(master) ✗ make test
+mkdir -p bin/generated
+python ./scripts/generate-tests.py -p ../../ --test-dir tests -o bin/generated/tests.c -i protc/libs.h -i protc/lexer.c -i tests/testlib.h
+mkdir -p bin
+clang -Wall -gmodules bin/generated/tests.c -o bin/protc_tests
+bin/protc_tests
+‡ tests from bin/generated/tests.c
+  ✓ test_minimal_func_decl
+  ✓ test_minimal_func_decl_with_return_type
+  ✓ test_minimal_func_decl_with_return_type_and_crazy_spacing
+
+§ test status (3 of 3) passed.
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Fri, 31 Aug 2018 00:10:57 -0700</pubDate>
+        <link>http://thoughts.owensd.io/2018/08/31/ah-no-more.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/08/31/ah-no-more.html</guid>
+      </item>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Some days it seems like I’m just spending a bunch of time trying to figure out the least hacky way to do something…&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 18:03:54 -0700</pubDate>
+        <link>http://thoughts.owensd.io/2018/08/29/some-days-it.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/08/30/some-days-it.html</guid>
+      </item>
     
       <item>
       	
