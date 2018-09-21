@@ -85,6 +85,30 @@
   <li>
     <article>
       
+      <header>
+        <h2><a href="/2018/09/21/new-commute-vehicle.html">New Commute Vehicle</a></h2>
+      </header>
+      <section class="post-body">
+        <p>After much deliberation on a commute vehicle replacement for the motorcycle (lots of reasons there…), the Tesla M3 came out as the winner as not only the most cost effective means of travel, but the most fun to drive.</p>
+
+<p>I placed an order on Thursday. Delivery slated for Monday! Now… to figure out how to get to work on Monday… I think a rental car is the best option. 🤔 Heh, or I could two back with my Jeep. 🤣</p>
+
+<p>Hmm… I also need to get a wall charger installed at home pronto!</p>
+
+      </section>
+      
+      <a href="/2018/09/21/new-commute-vehicle.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-09-21 11:37:37 -0700" class="dt-published">→ 11:37 AM, Sep 21</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
       <section class="post-body">
         <p>Nearly spilled coffee all over my work MacBook Pro. 😱</p>
 
@@ -587,81 +611,6 @@ bin/protc_tests
       <a href="/2018/08/17/ikea-desk-comes.html" class="u-url">
         <aside class="dates">
           <time datetime="2018-08-17 09:32:48 -0700" class="dt-published">→ 9:32 AM, Aug 17</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <header>
-        <h2><a href="/2018/08/17/projects-back-to.html">Projects: Back to C</a></h2>
-      </header>
-      <section class="post-body">
-        <p>One of the things I really enjoy doing in my space time is playing D&amp;D. Now, I don’t get a lot of time to do it, and when I do get to, I mostly play online. I’ve tried pretty much all of the tools out there from <a href="http://roll20.net">Roll 20</a>, <a href="http://fantasygrounds.com">Fantasy Grounds</a>, <a href="http://dndbeyond.com">D&amp;D Beyond</a>, Discord, and combinations of all of the above.</p>
-
-<p>The problem: none of them actually solve my needs.</p>
-
-<p>This brings me to my current hobby project: an online game management tool. Now, the fundamental problem with Roll 20 and Fantasy Grounds is that they are relatively closed eco-systems; you really need to buy into (quite literally!) in order to make the most of it. Now, Fantasy Grounds is far more flexible and you can basically encode anything you want, it’s a lot of time to do so.</p>
-
-<p>So, that’s where my project comes into play. I really like the premise around <a href="http://dndbeyond.com">D&amp;D Beyond</a>, however, it’s also a fairly closed ecosystem providing no APIs to interact with it. However, since D&amp;D Beyond is mainly a D&amp;D Book archive, I can work with that.</p>
-
-<hr />
-
-<p>Now… the goals of the project are as follows:</p>
-
-<ol>
-  <li>Create a system that works on macOS, iOS, and Windows. My players use varied systems and I need to support all three of those.</li>
-  <li>Create an open ecosystem where there is a fluid flow of information coming into the app and going out of the app. If you love Ulysses or Scrivener for writing your campaigns, use it! The app is to help you run your table top session, not management everything else for you.</li>
-  <li>High performance, low battery impact. A D&amp;D session can be 3~5 hours long and I don’t want people reaching for their chargers part way in or losing access to their character if they are on their laptop or iOS device, especially if we are at the table.</li>
-  <li>A learning project for certain things that I just don’t know too much about, such as low-level graphics frameworks.</li>
-  <li>The foundation for other projects that I have that I’d like to work on… <em>secret projects</em>.</li>
-</ol>
-
-<p>One of the key features, if not the primary feature, is an interactive mapping environment. This is going to likely be a top-down view of a true 3D environment with dynamic lighting, character line-of-sight handling, and turn management tools (including things like measuring movement distances and area of effect areas templates).</p>
-
-<hr />
-
-<p>This brings us to technology and language choices. Now, remember, this is going to be a truly cross-platform app. It also has the need of being run offline or over local-networks only.</p>
-
-<p>The basic choices are:</p>
-
-<ul>
-  <li>web-technology based, such as Electron or Atom</li>
-  <li>game engine based, such as Unreal or Unit</li>
-  <li>using some type of cross-platform application layer</li>
-  <li>handmade, native app</li>
-</ul>
-
-<p>For various reasons that I don’t really want to fully go into here, an Electron-based app is out. High performance, low battery life, small footprint, full offline, and cross-platform make a solution like this challenging, especially for a 3D engine. Sure, WebGL is pretty good, and there is WASM, but ultimately, this is really an unproven technology for this type of application. Also, I’d need a different solution on mobile vs. desktop, which starts to complicate the picture as well.</p>
-
-<p>Ok… so Unreal or Unity based? I haven’t fully rejected this idea, but it would likely only be for the map rendering portion as the vast majority of the rest my content is going to be primary text-based UIs (character sheets, rule references, story content, etc…). Unity… I’ve played around with it in the past and it just didn’t stick with me, so I’d use Unreal if I went this route. The question always is does this dependency warrant the design decisions and complexity? I’m not sure.</p>
-
-<p>Cross-platform layer… no.</p>
-
-<p>A native app. Now, this brings the downside of having to re-build the UI layer for each support platform, and for a hobby and one-man-team, that kinda stinks. BUT! I think it’s totally worth it. This choice also brings with it full control over all aspects of the project and how it is shaped. There’s a lot to be said about this.</p>
-
-<hr />
-
-<p>Language choices: really, there is only really one option that brings straight-forward interop between the various languages choices that may come up: C.</p>
-
-<p>Rust requires bindings and unsafe code; this ends up being a good amount of work to accomplish.</p>
-
-<p>C++ is C++. It’s a very complex and large language. Interop with other languages can be problematic as well.</p>
-
-<p>Swift, well, it’s simply not cross-platform and isn’t going to meet my needs for a Windows install. So it’s out by default.</p>
-
-<p>C is the only language that brings to the table straight-forward interop with all of the platform UI languages (I’ll likely use C# for Windows and ObjC or Swift for macOS and iOS). If I use Swift and I chose C++, I’d have to write a long of interop bindings between the two and that is just a waste of time.</p>
-
-<p>So I’ll be using C and the internet can collectively gasp at my choice. 😀</p>
-
-      </section>
-      
-      <a href="/2018/08/17/projects-back-to.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-08-17 00:49:19 -0700" class="dt-published">→ 12:49 AM, Aug 17</time>
         </aside>
       </a>
     </article>
