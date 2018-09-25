@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/09/25/hmm-no-more.html",
+	      	
+			"content_html": "<p>Hmm… no more car key means I’m going to be constantly forgetting my house key. At least I’ll have a garage door opener soon. =)</p>\n",
+			"date_published": "2018-09-25T15:17:55-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/25/hmm-no-more.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/25/model-picked-up.html",
+	      	
+			"content_html": "<p>Model 3 picked up, looks great. Only 73 mile range… better find a charger for the drive home.</p>\n",
+			"date_published": "2018-09-24T17:02:57-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/24/model-picked-up.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/24/hmm-series-watch.html",
 	      	
 			"content_html": "<p>Hmm… series 4 watch comes out and I manage to scratch my series 3 on our quartz countertops. Coincidence!?</p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>I swapped my CPU and graphics card out with my daughter’s PC so she could have a smaller case to fit on her small desk. <strong>BUT</strong> now my computer won’t really work because the video card cooler fan (hijacked from an eGPU enclosure) hits the CMOS battery. 🤦🏻‍♂️</p>\n",
 			"date_published": "2018-08-19T20:00:57-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/19/i-swapped-my.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/19/ive-been-looking.html",
-	      	
-			"content_html": "<p>I’ve been looking at a photo editing computer for my wife the past few weeks. I went back and forth all over the spectrum (iMac, MBP, PC, Hackintosh). Decided on the 15” MacBook Pro as it allows us to progressively dive deeper with an external display and an eGPU.</p>\n",
-			"date_published": "2018-08-18T20:37:32-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/18/ive-been-looking.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/18/ah-now-this.html",
-	      	
-			"content_html": "<p>Ah, now this is looking much better. Nether with it’s annoying plug though. 😠</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/18dac4ae48.jpg\" width=\"600\" height=\"600\" /></p>\n",
-			"date_published": "2018-08-18T12:39:18-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/18/ah-now-this.html"
 		}
 		
 	]
