@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/09/25/hmm-no-more.html",
+	      	
+			"content_text": "Hmm… no more car key means I’m going to be...",
+			"date_published": "2018-09-25T15:17:55-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/25/hmm-no-more.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/25/model-picked-up.html",
+	      	
+			"content_text": "Model 3 picked up, looks great. Only 73 mile range…...",
+			"date_published": "2018-09-24T17:02:57-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/24/model-picked-up.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/24/hmm-series-watch.html",
 	      	
 			"content_text": "Hmm… series 4 watch comes out and I manage to...",
