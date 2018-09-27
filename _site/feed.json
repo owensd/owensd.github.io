@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/09/27/first-real-commute.html",
+	      	
+			"content_html": "<p>First real commute in with the Model 3. First thoughts:</p>\n<ul>\n  <li>effective range is <em>much</em> lower when going 70+ mph</li>\n  <li>first 2/3rds is so much nicer than both the Jeep and bike</li>\n  <li>last 1/3rd much less stressful with auto-pilot (stop-n-go traffic)</li>\n</ul>\n\n<p>Overall, a very big upgrade!</p>\n",
+			"date_published": "2018-09-27T09:35:53-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/27/first-real-commute.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/26/does-anyone-have.html",
+	      	
+			"content_html": "<p>Does anyone have  or know of a Bluetooth door lock that isn’t obnoxious, tacky, and actually secure?</p>\n",
+			"date_published": "2018-09-25T17:47:30-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/25/does-anyone-have.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/25/hmm-no-more.html",
 	      	
 			"content_html": "<p>Hmm… no more car key means I’m going to be constantly forgetting my house key. At least I’ll have a garage door opener soon. =)</p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>The RTX 20* series looks pretty interesting, but my guess is they offer little, if any, gain over the current GTX 10* series in terms of FPS for games not specifically built for the architecture, and even then, it looks like it’s going to be a quality boost.</p>\n\n<p>Need some reviews!</p>\n",
 			"date_published": "2018-08-20T18:51:33-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/20/the-rtx-series.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/20/im-currently-using.html",
-	      	
-			"content_html": "<p>I’m currently using the hosted micro.blog service, but that still goes against the spirit of <a href=\"http://owensd.micro.blog/2018/08/16/taking-it-back.html.\">owensd.micro.blog/2018/08/1…</a> I’d really like to set it up so that I can post and aggregrate everything from my own setup, but that requires so much time…</p>\n",
-			"date_published": "2018-08-19T23:01:46-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/19/im-currently-using.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/20/i-swapped-my.html",
-	      	
-			"content_html": "<p>I swapped my CPU and graphics card out with my daughter’s PC so she could have a smaller case to fit on her small desk. <strong>BUT</strong> now my computer won’t really work because the video card cooler fan (hijacked from an eGPU enclosure) hits the CMOS battery. 🤦🏻‍♂️</p>\n",
-			"date_published": "2018-08-19T20:00:57-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/19/i-swapped-my.html"
 		}
 		
 	]
