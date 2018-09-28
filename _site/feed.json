@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/09/28/well-i-started.html",
+	      	
+			"content_html": "<p>Well… I started with an estimated 260 mile range home. Traveled 197.5 miles with an estimated 25 mile range remaining.</p>\n\n<p>Average of 283 Wh/mi used.</p>\n\n<p>Not too bad, I suppose.</p>\n",
+			"date_published": "2018-09-27T19:39:06-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/27/well-i-started.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/27/the-test-can.html",
+	      	
+			"content_html": "<p>The test: can I make it home when my car says I have a 260 range???</p>\n\n<p>The go-no-go is about 70 miles south. After that point, no charger for another 110 miles.</p>\n",
+			"date_published": "2018-09-27T15:08:49-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/27/the-test-can.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/27/first-real-commute.html",
 	      	
 			"content_html": "<p>First real commute in with the Model 3. First thoughts:</p>\n<ul>\n  <li>effective range is <em>much</em> lower when going 70+ mph</li>\n  <li>first 2/3rds is so much nicer than both the Jeep and bike</li>\n  <li>last 1/3rd much less stressful with auto-pilot (stop-n-go traffic)</li>\n</ul>\n\n<p>Overall, a very big upgrade!</p>\n",
@@ -194,22 +210,6 @@
 			"content_html": "<p>Unit Testing Doesn’t Need to be Involved: <a href=\"https://owensd.io/2018/08/21/unit-testing-doesnt-need-to-be-involved/\">owensd.io/2018/08/2…</a></p>\n",
 			"date_published": "2018-08-21T07:53:53-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/21/unit-testing-doesnt.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/21/minutes-until-my.html",
-	      	
-			"content_html": "<p>30 minutes until my D&amp;D session… that’s enough time to write some code…</p>\n",
-			"date_published": "2018-08-20T19:28:24-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/20/minutes-until-my.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/21/the-rtx-series.html",
-	      	
-			"content_html": "<p>The RTX 20* series looks pretty interesting, but my guess is they offer little, if any, gain over the current GTX 10* series in terms of FPS for games not specifically built for the architecture, and even then, it looks like it’s going to be a quality boost.</p>\n\n<p>Need some reviews!</p>\n",
-			"date_published": "2018-08-20T18:51:33-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/20/the-rtx-series.html"
 		}
 		
 	]
