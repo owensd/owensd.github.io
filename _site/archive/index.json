@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/09/28/well-i-started.html",
+	      	
+			"content_text": "Well… I started with an estimated 260 mile range home....",
+			"date_published": "2018-09-27T19:39:06-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/27/well-i-started.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/09/27/the-test-can.html",
+	      	
+			"content_text": "The test: can I make it home when my car...",
+			"date_published": "2018-09-27T15:08:49-07:00",
+			"url": "http://thoughts.owensd.io/2018/09/27/the-test-can.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/27/first-real-commute.html",
 	      	
 			"content_text": "First real commute in with the Model 3. First thoughts:...",
