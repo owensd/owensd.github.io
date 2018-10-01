@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/01/my-favorite-thing.html",
+	      	
+			"content_text": "My favorite thing about at Tesla DIY project is the...",
+			"date_published": "2018-10-01T14:33:31-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/01/my-favorite-thing.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/28/well-i-started.html",
 	      	
 			"content_text": "Well… I started with an estimated 260 mile range home....",
