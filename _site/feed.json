@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/01/my-favorite-thing.html",
+	      	
+			"content_html": "<p>My favorite thing about at Tesla DIY project is the ridiculous home charging solutions that people are using to plug into their cars… like really? You drop, in some cases, over $100,000 and use setups that clearly violate the NEC to charge.</p>\n\n<p>Umm… ok.</p>\n",
+			"date_published": "2018-10-01T14:33:31-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/01/my-favorite-thing.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/09/28/well-i-started.html",
 	      	
 			"content_html": "<p>Well… I started with an estimated 260 mile range home. Traveled 197.5 miles with an estimated 25 mile range remaining.</p>\n\n<p>Average of 283 Wh/mi used.</p>\n\n<p>Not too bad, I suppose.</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>After switching cases with my daughter, I got downgraded to a Ryzen 2200. I tried to suffer with huge mid-tower and ATX motherboard and only get a 2600x and 1060 replacement card for me.</p>\n\n<p>Now, I have a new case, ITX MB, and Noctua cooling setup coming this weekend.</p>\n\n<p>¯_(ツ)_/¯</p>\n",
 			"date_published": "2018-08-23T01:31:49-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/23/after-switching-cases.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/21/unit-testing-doesnt.html",
-	      	
-			"content_html": "<p>Unit Testing Doesn’t Need to be Involved: <a href=\"https://owensd.io/2018/08/21/unit-testing-doesnt-need-to-be-involved/\">owensd.io/2018/08/2…</a></p>\n",
-			"date_published": "2018-08-21T07:53:53-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/21/unit-testing-doesnt.html"
 		}
 		
 	]
