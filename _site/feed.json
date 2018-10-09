@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/09/this-was-not.html",
+	      	
+			"content_html": "<p>This was not the route to take to work today… 😭</p>\n",
+			"date_published": "2018-10-09T08:04:33-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/09/this-was-not.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/10/04/supercharging-is-so.html",
 	      	
 			"content_html": "<p>Supercharging is so fast!! A quick 15 minute stop charges nearly the same amount as an all day charge at work, and costs less!</p>\n",
@@ -202,14 +210,6 @@
 			"content_html": "<p>Oh my… I just got a random call tonight confirming my delivery for my IKEA furniture I ordered. It must have been found!</p>\n",
 			"date_published": "2018-08-28T21:02:01-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/28/oh-my-i.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/27/of-course-all.html",
-	      	
-			"content_html": "<p>Of course all of IKEA’s customer support “circuits are busy”… the pain keeps coming.</p>\n",
-			"date_published": "2018-08-27T08:47:50-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/27/of-course-all.html"
 		}
 		
 	]
