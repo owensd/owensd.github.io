@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/12/the-worst-thing.html",
+	      	
+			"content_text": "The worst thing about my Model 3 so far: I...",
+			"date_published": "2018-10-12T15:18:15-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/12/the-worst-thing.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/10/09/the-experiment-of.html",
+	      	
+			"content_text": "The experiment of stopping at the supercharger near work -...",
+			"date_published": "2018-10-09T08:33:34-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/09/the-experiment-of.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/10/09/this-was-not.html",
 	      	
 			"content_text": "This was not the route to take to work today…...",
