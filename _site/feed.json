@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/19/i-find-it.html",
+	      	
+			"content_html": "<p>I find it a bit amusing that I get to work in less time when leaving the house at 7:30am vs. 4:20am. Of course, the sample size is only one day, but traffic was much lighter @ 10 through Gilroy and on 85.</p>\n",
+			"date_published": "2018-10-19T15:45:13-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/19/i-find-it.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/10/12/the-worst-thing.html",
 	      	
 			"content_html": "<p>The worst thing about my Model 3 so far: I really want an X now too.</p>\n",
@@ -200,16 +208,6 @@
 			"content_html": "<p>Some days it seems like I’m just spending a bunch of time trying to figure out the least hacky way to do something…</p>\n",
 			"date_published": "2018-08-29T18:03:54-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/29/some-days-it.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/29/more-customer-service.html",
-	      	
-			"title": "More Customer Service Fun",
-			
-			"content_html": "<p>This time, it’s with Microsoft. As some of my previous <em>thoughts</em> (that’s what I’m calling micro.blog posts 😏) talked about: I upgraded my daughter’s computer due to some case re-arrangments. In th process, I also upgraded my computer to a Ryzen 5 2600X and a new motherboard.</p>\n\n<p>Of course, Windows was not happy. I couldn’t get the activation to work, even though I have a valid Win 10 Pro key purchased from the Microsoft Alumni web store.</p>\n\n<p>So… I called customer support thinking, naïvely it turns out, that it would be much better than my <a href=\"http://thoughts.owensd.io/2018/08/25/why-is-this.html\">IKEA ordeal</a> (oh, and apparently is magically resolved today - we’ll see).</p>\n\n<p>The first rep, which I got in contact with in only a few moments (looking good so far!). Well, this person tried to help me, but since I was getting the dreaded <strong>0xC004E003</strong>, they couldn’t help me and needed to transfer me to the store.</p>\n\n<p>OK, no worries… except they transferred me to a brick-n-mortar Microsoft store. Ugh? This lady was all confused and obviously couldn’t help me with my problem.</p>\n\n<p>So I call back, run through all of the same steps, and the tech couldn’t help me. Says he will transfer me to another tech.</p>\n\n<p>…</p>\n\n<p>…</p>\n\n<p>…</p>\n\n<p>Like 30 minutes later on hold, still crickets.</p>\n\n<hr />\n\n<p>At this point, it’s just better for my health at this point to pay the $40 to buy a new license, as stupid as that is. 🤦🏻‍♂️</p>\n\n<p>May your customer service adventures be more pleasant then mine have been lately.</p>\n",
-			"date_published": "2018-08-29T09:07:11-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/29/more-customer-service.html"
 		}
 		
 	]
