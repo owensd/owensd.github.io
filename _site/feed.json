@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/10/23/gah-always-hate.html",
+	      	
+			"content_html": "<p>Gah. Always hate waking up from a nap and feeling worse then when you laid down to begin with.</p>\n\n<p>#sickdaysstink</p>\n",
+			"date_published": "2018-10-22T19:15:32-07:00",
+			"url": "http://thoughts.owensd.io/2018/10/22/gah-always-hate.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/10/19/i-find-it.html",
 	      	
 			"content_html": "<p>I find it a bit amusing that I get to work in less time when leaving the house at 7:30am vs. 4:20am. Of course, the sample size is only one day, but traffic was much lighter @ 10 through Gilroy and on 85.</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>Ah. No more boiler-plate! I hate boiler-plate. Test infra is now all completely generated for my little pet project.</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>➜  proteus git:(master) ✗ make test\nmkdir -p bin/generated\npython ./scripts/generate-tests.py -p ../../ --test-dir tests -o bin/generated/tests.c -i protc/libs.h -i protc/lexer.c -i tests/testlib.h\nmkdir -p bin\nclang -Wall -gmodules bin/generated/tests.c -o bin/protc_tests\nbin/protc_tests\n‡ tests from bin/generated/tests.c\n  ✓ test_minimal_func_decl\n  ✓ test_minimal_func_decl_with_return_type\n  ✓ test_minimal_func_decl_with_return_type_and_crazy_spacing\n\n§ test status (3 of 3) passed.\n</code></pre>\n</div>\n",
 			"date_published": "2018-08-31T00:10:57-07:00",
 			"url": "http://thoughts.owensd.io/2018/08/31/ah-no-more.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/08/30/some-days-it.html",
-	      	
-			"content_html": "<p>Some days it seems like I’m just spending a bunch of time trying to figure out the least hacky way to do something…</p>\n",
-			"date_published": "2018-08-29T18:03:54-07:00",
-			"url": "http://thoughts.owensd.io/2018/08/29/some-days-it.html"
 		}
 		
 	]
