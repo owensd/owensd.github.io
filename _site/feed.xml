@@ -4,8 +4,17 @@
     <title>David Owens</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/owensd&quot;&gt;@owensd on Micro.blog&lt;/a&gt;.</description>
     <link>http://thoughts.owensd.io/</link>
-    <pubDate>Mon, 22 Oct 2018 19:15:58 -0700</pubDate>
-    <lastBuildDate>Mon, 22 Oct 2018 19:15:58 -0700</lastBuildDate>
+    <pubDate>Fri, 26 Oct 2018 14:13:08 -0700</pubDate>
+    <lastBuildDate>Fri, 26 Oct 2018 14:13:08 -0700</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Imagine trying to track down where an errant &lt;code class=&quot;highlighter-rouge&quot;&gt;.&lt;/code&gt; is coming from in a large code base with very little clues as to where and why… that’s me, have fun! =)&lt;/p&gt;
+</description>
+        <pubDate>Fri, 26 Oct 2018 14:12:56 -0700</pubDate>
+        <link>http://thoughts.owensd.io/2018/10/26/imagine-trying-to.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/10/26/imagine-trying-to.html</guid>
+      </item>
     
       <item>
       	
@@ -679,15 +688,6 @@ bin/protc_tests
         <pubDate>Wed, 15 Aug 2018 23:01:44 -0700</pubDate>
         <link>http://thoughts.owensd.io/2018/08/15/social-cleaning.html</link>
         <guid isPermaLink="true">http://owensd.micro.blog/2018/08/16/social-cleaning.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Better claim it. =)&lt;/p&gt;
-</description>
-        <pubDate>Tue, 14 Aug 2018 13:09:46 -0700</pubDate>
-        <link>http://thoughts.owensd.io/2018/08/14/better-claim-it.html</link>
-        <guid isPermaLink="true">http://owensd.micro.blog/2018/08/14/better-claim-it.html</guid>
       </item>
     
   </channel>
