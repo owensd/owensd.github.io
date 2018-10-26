@@ -88,6 +88,23 @@
     <article>
       
       <section class="post-body">
+        <p>Imagine trying to track down where an errant <code class="highlighter-rouge">.</code> is coming from in a large code base with very little clues as to where and why… that’s me, have fun! =)</p>
+
+      </section>
+      
+      <a href="/2018/10/26/imagine-trying-to.html" class="u-url">
+        <aside class="dates">
+          <time datetime="2018-10-26 14:12:56 -0700" class="dt-published">→ 2:12 PM, Oct 26</time>
+        </aside>
+      </a>
+    </article>
+  </li>
+  <span class="separator"><span class="divider"></span></span>
+  
+  <li>
+    <article>
+      
+      <section class="post-body">
         <p>Gah. Always hate waking up from a nap and feeling worse then when you laid down to begin with.</p>
 
 <p>#sickdaysstink</p>
@@ -556,38 +573,6 @@ public init(session: URLSession? = nil) {
       <a href="/2018/09/14/i-guess-its.html" class="u-url">
         <aside class="dates">
           <time datetime="2018-09-14 08:49:34 -0700" class="dt-published">→ 8:49 AM, Sep 14</time>
-        </aside>
-      </a>
-    </article>
-  </li>
-  <span class="separator"><span class="divider"></span></span>
-  
-  <li>
-    <article>
-      
-      <section class="post-body">
-        <p>Ah. No more boiler-plate! I hate boiler-plate. Test infra is now all completely generated for my little pet project.</p>
-
-<div class="highlighter-rouge"><pre class="highlight"><code>➜  proteus git:(master) ✗ make test
-mkdir -p bin/generated
-python ./scripts/generate-tests.py -p ../../ --test-dir tests -o bin/generated/tests.c -i protc/libs.h -i protc/lexer.c -i tests/testlib.h
-mkdir -p bin
-clang -Wall -gmodules bin/generated/tests.c -o bin/protc_tests
-bin/protc_tests
-‡ tests from bin/generated/tests.c
-  ✓ test_minimal_func_decl
-  ✓ test_minimal_func_decl_with_return_type
-  ✓ test_minimal_func_decl_with_return_type_and_crazy_spacing
-
-§ test status (3 of 3) passed.
-</code></pre>
-</div>
-
-      </section>
-      
-      <a href="/2018/08/31/ah-no-more.html" class="u-url">
-        <aside class="dates">
-          <time datetime="2018-08-31 00:10:57 -0700" class="dt-published">→ 12:10 AM, Aug 31</time>
         </aside>
       </a>
     </article>
