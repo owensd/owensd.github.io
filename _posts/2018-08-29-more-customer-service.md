@@ -3,7 +3,7 @@ layout: post
 title: "More Customer Service Fun"
 microblog: false
 audio: 
-date: 2018-08-29 09:07:11 -0700
+date: 2018-08-29 08:07:11 -0800
 guid: http://owensd.micro.blog/2018/08/29/more-customer-service.html
 ---
 This time, it's with Microsoft. As some of my previous *thoughts* (that's what I'm calling micro.blog posts 😏) talked about: I upgraded my daughter's computer due to some case re-arrangments. In th process, I also upgraded my computer to a Ryzen 5 2600X and a new motherboard.
