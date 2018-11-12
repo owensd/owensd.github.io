@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-18 12:39:18 -0700
+date: 2018-08-18 11:39:18 -0800
 guid: http://owensd.micro.blog/2018/08/18/ah-now-this.html
 ---
 Ah, now this is looking much better. Nether with it’s annoying plug though. 😠
