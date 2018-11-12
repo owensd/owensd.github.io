@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-08-18 11:08:39 -0700
+date: 2018-08-18 10:08:39 -0800
 guid: http://owensd.micro.blog/2018/08/18/this-is-just.html
 ---
 This is just ridiculous. I have nearly three feet of extra coax length here. Hopefully I can shove it up into the wall. 
