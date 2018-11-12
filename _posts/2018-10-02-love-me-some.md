@@ -3,7 +3,7 @@ layout: post
 title: "Love me some 240V/60A electrical work..."
 microblog: false
 audio: 
-date: 2018-10-01 20:04:43 -0700
+date: 2018-10-01 19:04:43 -0800
 guid: http://owensd.micro.blog/2018/10/02/love-me-some.html
 ---
 ✓ Power at 240V/60A breaker box 
