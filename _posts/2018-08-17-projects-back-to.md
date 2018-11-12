@@ -3,7 +3,7 @@ layout: post
 title: "Projects: Back to C"
 microblog: false
 audio: 
-date: 2018-08-17 00:49:19 -0700
+date: 2018-08-16 23:49:19 -0800
 guid: http://owensd.micro.blog/2018/08/17/projects-back-to.html
 ---
 One of the things I really enjoy doing in my space time is playing D&D. Now, I don't get a lot of time to do it, and when I do get to, I mostly play online. I've tried pretty much all of the tools out there from [Roll 20](http://roll20.net), [Fantasy Grounds](http://fantasygrounds.com), [D&D Beyond](http://dndbeyond.com), Discord, and combinations of all of the above.
