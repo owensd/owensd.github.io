@@ -3,7 +3,7 @@ layout: post
 title: "Taking it Back, One Step at a Time"
 microblog: false
 audio: 
-date: 2018-08-16 17:28:29 -0700
+date: 2018-08-16 16:28:29 -0800
 guid: http://owensd.micro.blog/2018/08/17/taking-it-back.html
 ---
 Today I've started the long process of transitioning all of my online profiles over to places where I have the control of my data and who sees it. I already had a semi-personal, semi-self-work-related location with owensd.io.
