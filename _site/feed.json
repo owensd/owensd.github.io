@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/12/i-wonder-whats.html",
+	      	
+			"content_html": "<p>I wonder what’s happening in “Twitter-land”. Well… that was a poor choice to getting my Monday started off right.</p>\n",
+			"date_published": "2018-11-12T09:26:33-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/12/i-wonder-whats.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/10/29/the-past-three.html",
 	      	
 			"content_html": "<p>The past three weeks I’ve had this lingering sickness that just won’t go away! My body is getting too old and is unable to heal itself, apparently. The lack of sleep is probably not helping. 🤔</p>\n\n<p>More coffee! 😂</p>\n",
@@ -200,14 +208,6 @@
 			"content_html": "<p>At 17mpg, my Jeep makes a terrible commuter.</p>\n\n<p>The best options I’m looking at are the ‘15 BMW 328d and ‘15 Audi 3 TDI, both about 45 mpg. Even factoring in vehicle cost, I’m looking at a savings of $2500+ per year. A Model 3 is only an effective saving of $1300 (new car $$$).</p>\n",
 			"date_published": "2018-09-17T10:48:13-07:00",
 			"url": "http://thoughts.owensd.io/2018/09/17/at-mpg-my.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/16/i-sometimes-get.html",
-	      	
-			"content_html": "<p>I sometimes get far too angry about programming annoyances. Latest example:</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>private var session: URLSession? = nil\n</code></pre>\n</div>\n\n<p>Simple, but no… I need to do this:</p>\n\n<div class=\"highlighter-rouge\"><pre class=\"highlight\"><code>private var session: URLSession?\n\npublic init(session: URLSession? = nil) {\n    self.session = session\n}\n</code></pre>\n</div>\n",
-			"date_published": "2018-09-15T18:50:51-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/15/i-sometimes-get.html"
 		}
 		
 	]
