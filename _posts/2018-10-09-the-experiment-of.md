@@ -2,7 +2,7 @@
 layout: post
 microblog: true
 audio: 
-date: 2018-10-09 08:33:34 -0700
+date: 2018-10-09 07:33:34 -0800
 guid: http://owensd.micro.blog/2018/10/09/the-experiment-of.html
 ---
 The experiment of stopping at the supercharger near work - not so good.
