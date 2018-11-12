@@ -3,7 +3,7 @@ layout: post
 title: "Social Cleaning"
 microblog: false
 audio: 
-date: 2018-08-15 23:01:44 -0700
+date: 2018-08-15 22:01:44 -0800
 guid: http://owensd.micro.blog/2018/08/16/social-cleaning.html
 ---
 I have a bunch of stuff to cleanup my social profile that I've been meaning to do for a long time, including:
