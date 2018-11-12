@@ -4,8 +4,17 @@
     <title>David Owens</title>
     <description>Follow &lt;a href=&quot;https://micro.blog/owensd&quot;&gt;@owensd on Micro.blog&lt;/a&gt;.</description>
     <link>http://thoughts.owensd.io/</link>
-    <pubDate>Mon, 29 Oct 2018 10:55:01 -0700</pubDate>
-    <lastBuildDate>Mon, 29 Oct 2018 10:55:01 -0700</lastBuildDate>
+    <pubDate>Mon, 12 Nov 2018 09:26:40 -0800</pubDate>
+    <lastBuildDate>Mon, 12 Nov 2018 09:26:40 -0800</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;I wonder what’s happening in “Twitter-land”. Well… that was a poor choice to getting my Monday started off right.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 09:26:33 -0800</pubDate>
+        <link>http://thoughts.owensd.io/2018/11/12/i-wonder-whats.html</link>
+        <guid isPermaLink="true">http://owensd.micro.blog/2018/11/12/i-wonder-whats.html</guid>
+      </item>
     
       <item>
       	
@@ -668,15 +677,6 @@ bin/protc_tests
         <pubDate>Thu, 16 Aug 2018 10:18:20 -0700</pubDate>
         <link>http://thoughts.owensd.io/2018/08/16/hmm-i-was.html</link>
         <guid isPermaLink="true">http://owensd.micro.blog/2018/08/16/hmm-i-was.html</guid>
-      </item>
-    
-      <item>
-      	
-        <description>&lt;p&gt;Hmm… ok, so how do I get the GitHub Pages integration working? I have the access key setup  and repo, but nothing seems to be posting over there.&lt;/p&gt;
-</description>
-        <pubDate>Thu, 16 Aug 2018 00:11:42 -0700</pubDate>
-        <link>http://thoughts.owensd.io/2018/08/16/hmm-ok-so.html</link>
-        <guid isPermaLink="true">http://owensd.micro.blog/2018/08/16/hmm-ok-so.html</guid>
       </item>
     
   </channel>
