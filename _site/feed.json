@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/14/wow-its-already.html",
+	      	
+			"content_html": "<p>Wow… it’s already been a bit over a year since I joined . Time is a funny thing.</p>\n",
+			"date_published": "2018-11-14T13:50:22-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/14/wow-its-already.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/11/12/its-f-outside.html",
+	      	
+			"content_html": "<p>It’s 74F outside, but my house is freezing. It drops  to 30F during the night, and the house temp never recovers!</p>\n",
+			"date_published": "2018-11-12T11:51:07-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/12/its-f-outside.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/12/i-wonder-whats.html",
 	      	
 			"content_html": "<p>I wonder what’s happening in “Twitter-land”. Well… that was a poor choice to getting my Monday started off right.</p>\n",
@@ -192,22 +208,6 @@
 			"content_html": "<p>Nearly spilled coffee all over my work MacBook Pro. 😱</p>\n",
 			"date_published": "2018-09-19T14:52:18-07:00",
 			"url": "http://thoughts.owensd.io/2018/09/19/nearly-spilled-coffee.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/19/i-test-drove.html",
-	      	
-			"content_html": "<p>I test drove a Model 3 today… so much I thought I wouldn’t like going into it, but I actually really liked everything about it. White interior was also my favorite over the black.</p>\n\n<p>And holy crap, the performance model is fast!</p>\n",
-			"date_published": "2018-09-19T00:58:16-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/19/i-test-drove.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/17/at-mpg-my.html",
-	      	
-			"content_html": "<p>At 17mpg, my Jeep makes a terrible commuter.</p>\n\n<p>The best options I’m looking at are the ‘15 BMW 328d and ‘15 Audi 3 TDI, both about 45 mpg. Even factoring in vehicle cost, I’m looking at a savings of $2500+ per year. A Model 3 is only an effective saving of $1300 (new car $$$).</p>\n",
-			"date_published": "2018-09-17T10:48:13-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/17/at-mpg-my.html"
 		}
 		
 	]
