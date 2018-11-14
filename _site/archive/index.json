@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/14/wow-its-already.html",
+	      	
+			"content_text": "Wow… it’s already been a bit over a year since...",
+			"date_published": "2018-11-14T13:50:22-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/14/wow-its-already.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/11/12/its-f-outside.html",
+	      	
+			"content_text": "It’s 74F outside, but my house is freezing. It drops...",
+			"date_published": "2018-11-12T11:51:07-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/12/its-f-outside.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/12/i-wonder-whats.html",
 	      	
 			"content_text": "I wonder what’s happening in “Twitter-land”. Well… that was a...",
