@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/17/i-picked-up.html",
+	      	
+			"content_html": "<p>I picked up the iPad Pro 12.9 last week. The only regret I have with the purchase: the keyboard folio. There’s nothing wrong with it, per se, it’s just that this iPad is my dream slate device, and the keyboard seems like a huge step back as an input device. Go ink, or go home.</p>\n",
+			"date_published": "2018-11-17T15:08:39-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/17/i-picked-up.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/11/15/well-today-was.html",
+	      	
+			"content_html": "<p>Well, today was the big suck. Until tomorrow!</p>\n",
+			"date_published": "2018-11-14T19:08:58-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/14/well-today-was.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/14/wow-its-already.html",
 	      	
 			"content_html": "<p>Wow… it’s already been a bit over a year since I joined . Time is a funny thing.</p>\n",
@@ -190,24 +206,6 @@
 			"content_html": "<p>It’s here! =)</p>\n\n<p>Oooh… new outer wrapper packaging that doesn’t require cutting the plastic, nice.</p>\n",
 			"date_published": "2018-09-21T17:11:45-07:00",
 			"url": "http://thoughts.owensd.io/2018/09/21/its-here-oooh.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/21/new-commute-vehicle.html",
-	      	
-			"title": "New Commute Vehicle",
-			
-			"content_html": "<p>After much deliberation on a commute vehicle replacement for the motorcycle (lots of reasons there…), the Tesla M3 came out as the winner as not only the most cost effective means of travel, but the most fun to drive.</p>\n\n<p>I placed an order on Thursday. Delivery slated for Monday! Now… to figure out how to get to work on Monday… I think a rental car is the best option. 🤔 Heh, or I could tow it back with my Jeep. 🤣</p>\n\n<p>Hmm… I also need to get a wall charger installed at home pronto!</p>\n",
-			"date_published": "2018-09-21T11:37:37-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/21/new-commute-vehicle.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/19/nearly-spilled-coffee.html",
-	      	
-			"content_html": "<p>Nearly spilled coffee all over my work MacBook Pro. 😱</p>\n",
-			"date_published": "2018-09-19T14:52:18-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/19/nearly-spilled-coffee.html"
 		}
 		
 	]
