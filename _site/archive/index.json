@@ -7,6 +7,22 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/17/i-picked-up.html",
+	      	
+			"content_text": "I picked up the iPad Pro 12.9 last week. The...",
+			"date_published": "2018-11-17T15:08:39-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/17/i-picked-up.html"
+		},
+		
+		{
+			"id": "http://owensd.micro.blog/2018/11/15/well-today-was.html",
+	      	
+			"content_text": "Well, today was the big suck. Until tomorrow!\n",
+			"date_published": "2018-11-14T19:08:58-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/14/well-today-was.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/14/wow-its-already.html",
 	      	
 			"content_text": "Wow… it’s already been a bit over a year since...",
