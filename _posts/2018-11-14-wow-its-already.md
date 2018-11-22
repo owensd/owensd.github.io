@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-14 13:50:22 -0800
 guid: http://owensd.micro.blog/2018/11/14/wow-its-already.html
 ---
