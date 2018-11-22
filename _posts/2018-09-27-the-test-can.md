@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-27 14:08:49 -0800
 guid: http://owensd.micro.blog/2018/09/27/the-test-can.html
 ---
