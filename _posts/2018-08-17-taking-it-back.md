@@ -3,6 +3,7 @@ layout: post
 title: "Taking it Back, One Step at a Time"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-16 16:28:29 -0800
 guid: http://owensd.micro.blog/2018/08/17/taking-it-back.html
 ---
