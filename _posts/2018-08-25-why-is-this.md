@@ -3,6 +3,7 @@ layout: post
 title: "Why is this so hard!?"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-25 08:25:56 -0800
 guid: http://owensd.micro.blog/2018/08/25/why-is-this.html
 ---
