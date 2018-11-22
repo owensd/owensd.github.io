@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-12 09:26:33 -0800
 guid: http://owensd.micro.blog/2018/11/12/i-wonder-whats.html
 ---
