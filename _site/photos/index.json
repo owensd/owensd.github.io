@@ -1,0 +1,43 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "David Owens",
+	"icon": "https://micro.blog/owensd/avatar.jpg",
+	"home_page_url": "http://thoughts.owensd.io/",
+	"feed_url": "http://thoughts.owensd.io/photos/index.json",
+	"items": [
+		
+		{
+			"id": "http://owensd.micro.blog/2018/08/24/i-hate-graphs.html",
+			
+			"content_text": "<p>I hate graphs like this; they provide no actual information and are clearly meant to tell a story that the author wants you to see instead of providing actual information that you can understands based on facts.</p>\n\n<p>This whole RTX launch seems super sketchy to me.</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/408c702eaa.jpg\" width=\"600\" height=\"337\" /></p>\n",
+			"date_published": "2018-08-23T22:14:35-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/23/i-hate-graphs.html",
+			"image": "http://thoughts.owensd.io/uploads/2018/408c702eaa.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://thoughts.owensd.io/uploads/2018/408c702eaa.jpg"
+			}
+		},
+		{
+			"id": "http://owensd.micro.blog/2018/08/18/ah-now-this.html",
+			
+			"content_text": "<p>Ah, now this is looking much better. Nether with it’s annoying plug though. 😠</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/18dac4ae48.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T12:39:18-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/18/ah-now-this.html",
+			"image": "http://thoughts.owensd.io/uploads/2018/18dac4ae48.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://thoughts.owensd.io/uploads/2018/18dac4ae48.jpg"
+			}
+		},
+		{
+			"id": "http://owensd.micro.blog/2018/08/18/this-is-just.html",
+			
+			"content_text": "<p>This is just ridiculous. I have nearly three feet of extra coax length here. Hopefully I can shove it up into the wall.</p>\n\n<p><img src=\"http://thoughts.owensd.io/uploads/2018/d236562c3e.jpg\" width=\"600\" height=\"600\" /></p>\n",
+			"date_published": "2018-08-18T11:08:39-07:00",
+			"url": "http://thoughts.owensd.io/2018/08/18/this-is-just.html",
+			"image": "http://thoughts.owensd.io/uploads/2018/d236562c3e.jpg",
+			"_microblog": {
+				"thumbnail_url": "https://photos.micro.blog/400/http://thoughts.owensd.io/uploads/2018/d236562c3e.jpg"
+			}
+		}
+	]
+}
