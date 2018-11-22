@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://thoughts.owensd.io/uploads/2018/408c702eaa.jpg
 date: 2018-08-23 21:14:35 -0800
 guid: http://owensd.micro.blog/2018/08/24/i-hate-graphs.html
 ---
