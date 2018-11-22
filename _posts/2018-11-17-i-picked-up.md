@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-11-17 15:08:39 -0800
 guid: http://owensd.micro.blog/2018/11/17/i-picked-up.html
 ---
