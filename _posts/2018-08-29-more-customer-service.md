@@ -3,6 +3,7 @@ layout: post
 title: "More Customer Service Fun"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-29 08:07:11 -0800
 guid: http://owensd.micro.blog/2018/08/29/more-customer-service.html
 ---
