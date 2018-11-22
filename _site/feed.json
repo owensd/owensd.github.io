@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/22/my-day-old.html",
+	      	
+			"content_html": "<p>My 3-day old niece went in for open heart surgery today. After a long procedure, she came out looking pretty good, all things considered.</p>\n\n<p>🙏🏻</p>\n\n<p>Remember to be thankful for the loved ones you have; you never know what today holds.</p>\n",
+			"date_published": "2018-11-21T21:17:28-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/21/my-day-old.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/17/i-picked-up.html",
 	      	
 			"content_html": "<p>I picked up the iPad Pro 12.9 last week. The only regret I have with the purchase: the keyboard folio. There’s nothing wrong with it, per se, it’s just that this iPad is my dream slate device, and the keyboard seems like a huge step back as an input device. Go ink, or go home.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>Hmm… series 4 watch comes out and I manage to scratch my series 3 on our quartz countertops. Coincidence!?</p>\n",
 			"date_published": "2018-09-24T09:20:18-07:00",
 			"url": "http://thoughts.owensd.io/2018/09/24/hmm-series-watch.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/22/its-here-oooh.html",
-	      	
-			"content_html": "<p>It’s here! =)</p>\n\n<p>Oooh… new outer wrapper packaging that doesn’t require cutting the plastic, nice.</p>\n",
-			"date_published": "2018-09-21T17:11:45-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/21/its-here-oooh.html"
 		}
 		
 	]
