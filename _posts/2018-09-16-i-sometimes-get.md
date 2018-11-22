@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-15 17:50:51 -0800
 guid: http://owensd.micro.blog/2018/09/16/i-sometimes-get.html
 ---
