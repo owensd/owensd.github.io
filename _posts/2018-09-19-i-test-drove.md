@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-18 23:58:16 -0800
 guid: http://owensd.micro.blog/2018/09/19/i-test-drove.html
 ---
