@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-27 18:39:06 -0800
 guid: http://owensd.micro.blog/2018/09/28/well-i-started.html
 ---
