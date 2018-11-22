@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-01 13:33:31 -0800
 guid: http://owensd.micro.blog/2018/10/01/my-favorite-thing.html
 ---
