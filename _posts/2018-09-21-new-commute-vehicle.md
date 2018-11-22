@@ -3,6 +3,7 @@ layout: post
 title: "New Commute Vehicle"
 microblog: false
 audio: 
+photo: 
 date: 2018-09-21 10:37:37 -0800
 guid: http://owensd.micro.blog/2018/09/21/new-commute-vehicle.html
 ---
