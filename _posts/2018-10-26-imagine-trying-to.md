@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-10-26 13:12:56 -0800
 guid: http://owensd.micro.blog/2018/10/26/imagine-trying-to.html
 ---
