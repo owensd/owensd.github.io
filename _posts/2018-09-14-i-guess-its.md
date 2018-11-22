@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-14 07:49:34 -0800
 guid: http://owensd.micro.blog/2018/09/14/i-guess-its.html
 ---
