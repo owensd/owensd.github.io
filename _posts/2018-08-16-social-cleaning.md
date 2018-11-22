@@ -3,6 +3,7 @@ layout: post
 title: "Social Cleaning"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-15 22:01:44 -0800
 guid: http://owensd.micro.blog/2018/08/16/social-cleaning.html
 ---
