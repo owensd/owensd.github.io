@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-08-21 06:53:53 -0800
 guid: http://owensd.micro.blog/2018/08/21/unit-testing-doesnt.html
 ---
