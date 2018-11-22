@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: 
 date: 2018-09-24 16:02:57 -0800
 guid: http://owensd.micro.blog/2018/09/25/model-picked-up.html
 ---
