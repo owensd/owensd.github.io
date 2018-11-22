@@ -3,6 +3,7 @@ layout: post
 title: "Projects: Back to C"
 microblog: false
 audio: 
+photo: 
 date: 2018-08-16 23:49:19 -0800
 guid: http://owensd.micro.blog/2018/08/17/projects-back-to.html
 ---
