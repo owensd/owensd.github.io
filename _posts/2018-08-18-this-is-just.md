@@ -2,6 +2,7 @@
 layout: post
 microblog: true
 audio: 
+photo: http://thoughts.owensd.io/uploads/2018/d236562c3e.jpg
 date: 2018-08-18 10:08:39 -0800
 guid: http://owensd.micro.blog/2018/08/18/this-is-just.html
 ---
