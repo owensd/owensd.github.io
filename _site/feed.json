@@ -7,6 +7,14 @@
 	"items": [
 		
 		{
+			"id": "http://owensd.micro.blog/2018/11/29/ugh-these-ev.html",
+	      	
+			"content_html": "<p>Ugh, these EV chargers are work are so slow…. charging for nearly six hours and I’ve only gotten about 55% battery charge back.</p>\n",
+			"date_published": "2018-11-29T13:19:02-08:00",
+			"url": "http://thoughts.owensd.io/2018/11/29/ugh-these-ev.html"
+		},
+		
+		{
 			"id": "http://owensd.micro.blog/2018/11/22/my-day-old.html",
 	      	
 			"content_html": "<p>My 3-day old niece went in for open heart surgery today. After a long procedure, she came out looking pretty good, all things considered.</p>\n\n<p>🙏🏻</p>\n\n<p>Remember to be thankful for the loved ones you have; you never know what today holds.</p>\n",
@@ -198,14 +206,6 @@
 			"content_html": "<p>Model 3 picked up, looks great. Only 73 mile range… better find a charger for the drive home.</p>\n",
 			"date_published": "2018-09-24T17:02:57-07:00",
 			"url": "http://thoughts.owensd.io/2018/09/24/model-picked-up.html"
-		},
-		
-		{
-			"id": "http://owensd.micro.blog/2018/09/24/hmm-series-watch.html",
-	      	
-			"content_html": "<p>Hmm… series 4 watch comes out and I manage to scratch my series 3 on our quartz countertops. Coincidence!?</p>\n",
-			"date_published": "2018-09-24T09:20:18-07:00",
-			"url": "http://thoughts.owensd.io/2018/09/24/hmm-series-watch.html"
 		}
 		
 	]
